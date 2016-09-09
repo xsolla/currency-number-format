@@ -8,7 +8,7 @@ JSON languages object.
 
 Copy the JSON file into your project or use npm/bower package manager:
 
-- Execute the following command: `npm install number-format` or `bower install number-format`
+- Execute the following command: `npm install currency-number-format` or `bower install currency-number-format`
 
 ## Usage
 

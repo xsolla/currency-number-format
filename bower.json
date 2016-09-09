@@ -1,0 +1,14 @@
+{
+    "name": "currency-number-format",
+    "description": "JSON languages object.",
+    "license": "MIT",
+    "authors": [
+        "Denis Pankov <ds.pankov@xsolla.com>"
+    ],
+    "keywords": [
+        "currency",
+        "number",
+        "json"
+    ],
+    "moduleType": []
+}

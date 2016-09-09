@@ -1,0 +1,17 @@
+{
+    "name": "currency-number-format",
+    "version": "1.0.7",
+    "description": "JSON languages object.",
+    "author": "Denis Pankov <ds.pankov@xsolla.com>",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/xsolla/currency-number-format.git"
+    },
+    "keywords": [
+        "currency",
+        "number",
+        "json"
+    ],
+    "license": "MIT",
+    "main": "currency-number-format.json"
+}
