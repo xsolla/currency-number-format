@@ -1,6 +1,6 @@
-# Number Format JSON
+# Currency Number Format JSON
 
-[![npm version](https://badge.fury.io/js/number-format.svg)](https://badge.fury.io/js/number-format) [![bower version](https://badge.fury.io/bo/number-format.svg)](https://badge.fury.io/bo/number-format)
+[![npm version](https://badge.fury.io/js/currency-number-format.svg)](https://badge.fury.io/js/currency-number-format) [![bower version](https://badge.fury.io/bo/currency-number-format.svg)](https://badge.fury.io/bo/currency-number-format)
 
 JSON languages object.
 
@@ -28,4 +28,4 @@ Structure:
 
 The MIT License.
 
-See [LICENSE](https://github.com/xsolla/number-format/blob/master/LICENSE)
+See [LICENSE](https://github.com/xsolla/currency-number-format/blob/master/LICENSE)
