@@ -83,15 +83,15 @@
         "decimal": ".",
         "thousands": ","
     },
-    "tr-TR": {
+    "tr_TR": {
         "decimal": ",",
         "thousands": "."
     },
-    "vi-VN": {
+    "vi_VN": {
         "decimal": ",",
         "thousands": "."
     },
-    "zh-TW": {
+    "zh_TW": {
         "decimal": ",",
         "thousands": "."
     },
