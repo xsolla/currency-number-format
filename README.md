@@ -16,7 +16,7 @@ Structure:
 
 ```javascript
 {
-    "en": {
+    "en_US": {
         "decimal": ".",
         "thousands": ","
     },
